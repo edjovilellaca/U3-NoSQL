@@ -1,5 +1,5 @@
 FROM node
-WORKDIR /app
+WORKDIR /Proyectote2
 COPY package*.json ./
 RUN npm install
 COPY . .
