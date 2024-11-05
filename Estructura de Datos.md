@@ -578,3 +578,4 @@ DETACH DELETE s1;
 
 6.- Registrar una reunión con un cliente y los empleados asistentes
     http://localhost:3000/api/reuniones/registrar
+    
